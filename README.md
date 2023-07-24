@@ -15,7 +15,7 @@ The course covers the following at a high level, with simple code examples to ge
 - **Part 1 - Introduction to NLP**
     - [Slides](https://github.com/mylesmharrison/nlp4free/blob/master/slides/NLP4Free%20-%20Part%201%20-%20%20Introduction%20to%20NLP.pdf)
 - **Part 2 - Data Acqusition and Processing**
-    - [Slides](https://github.com/mylesmharrison/nlp4free/blob/master/slides/NLP4Free%20-%20Part%201%20-%20%20Introduction%20to%20NLP.pdf)
+    - [Slides](https://github.com/mylesmharrison/nlp4free/blob/master/slides/NLP4Free%20-%20Part%202%20-%20Data%20Acquisition%20and%20Preprocessing.pdf)
     - [Jupyter Notebook](https://github.com/mylesmharrison/nlp4free/blob/master/notebooks/NLP4Free_Part2_DataAcquisitionandPreprocessing.ipynb)<a target="_blank" href="https://colab.research.google.com/drive/1_LYVpHoK0Esemo1FazT5UdQb-w97zykz?usp=drive_link">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 - **Part 3 - Machine Learning and Sentiment Analysis**
