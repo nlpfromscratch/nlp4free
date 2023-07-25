@@ -19,7 +19,9 @@ The course covers the following at a high level, with simple code examples to ge
     - [Jupyter Notebook](https://github.com/mylesmharrison/nlp4free/blob/master/notebooks/NLP4Free_Part2_DataAcquisitionandPreprocessing.ipynb)<a target="_blank" href="https://colab.research.google.com/drive/1_LYVpHoK0Esemo1FazT5UdQb-w97zykz?usp=drive_link">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 - **Part 3 - Machine Learning and Sentiment Analysis**
-    - To be completed 07/17/2023
+    - [Slides](https://github.com/mylesmharrison/nlp4free/blob/master/slides/NLP4Free%20-%20Part%203%20-%20Machine%20Learning%20%26%20Sentiment%20Analysis.pdf)
+    - [Jupyter Notebook](https://github.com/mylesmharrison/nlp4free/blob/master/notebooks/NLP4Free_Part3_MachineLearningandSentiment.ipynb)<a target="_blank" href="https://colab.research.google.com/drive/10dX0HvMDTTn_tsOiHE2QlQR247IL2c_c?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 - **Part 4 - Unsupervised Methods for NLP**
     - To be completed, 08/2023
 - **Part 5 - Deep Learning for Natural Language**
